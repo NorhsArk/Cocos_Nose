@@ -1,0 +1,37 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.nose",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "3476e485-a34a-42a0-9e6c-98cd7b6a633a",
+  "title": "RunnyNose",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "019a462c-6600-48",
+  "zipCompressJs": true
+}
